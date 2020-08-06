@@ -2,9 +2,6 @@
 
 - 🔭 I’m currently working on Netondo
 - 🌱 I’m currently learning AI, ML, VR and AR
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to runing and play guitar
 
 📊 **Front-end tools**
 ✔ JavaScript (ES5/ES6/ES7+, Babel)<br />
