@@ -1,5 +1,3 @@
-### Hi there, I'm Ramil - [website] 👋
-
 ## I'm a Software Engineer!
 
 - 🔭 I’m currently working on Netondo
