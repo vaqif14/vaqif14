@@ -9,31 +9,31 @@
 - ⚡ Fun fact: I love to runing and play guitar
 
 📊 **Front-end tools**
-✔ JavaScript (ES5/ES6/ES7+, Babel)
-✔ TypeScript
-✔ Java
-✔ Kotlin
-✔ React native
-✔ ReactJS, Redux, RxJS
-✔ Svelte
-✔ GatsbyJs,
-✔ NextJs
-✔ ReasonML
-✔ Tests: Jest, Mocha, Chai, Storybook, Puppeteer, TDD
-✔ HTML5, CSS3 with LESS/SCSS, SVG, canvas, animation
-✔ UI/UX, responsive web
-✔ Material UI, Bootstrap, Zurb Foundation
-✔ Webpack, npm, yarn, etc...
+✔ JavaScript (ES5/ES6/ES7+, Babel)<br />
+✔ TypeScript<br />
+✔ Java<br />
+✔ Kotlin<br />
+✔ React native<br />
+✔ ReactJS, Redux, RxJS<br />
+✔ Svelte<br />
+✔ GatsbyJs,<br />
+✔ NextJs<br />
+✔ ReasonML<br />
+✔ Tests: Jest, Mocha, Chai, Storybook, Puppeteer, TDD<br />
+✔ HTML5, CSS3 with LESS/SCSS, SVG, canvas, animation<br />
+✔ UI/UX, responsive web<br />
+✔ Material UI, Bootstrap, Zurb Foundation<br />
+✔ Webpack, npm, yarn, etc...<br />
 
-💻 **Back-end tools**
-✔ Python
-✔ GraphQL
-✔ Rest Api
-✔ NodeJs
-✔ NestJs
-✔ Django, Flask
-✔ Django Rest Api
-✔ SQLAlchemy
+💻 **Back-end tools**<br />
+✔ Python<br />
+✔ GraphQL<br />
+✔ Rest Api<br />
+✔ NodeJs<br />
+✔ NestJs<br />
+✔ Django, Flask<br />
+✔ Django Rest Api<br />
+✔ SQLAlchemy<br />
  
 
 ### Connect with me:
@@ -43,9 +43,6 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/behance.svg" />][behance]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
-
 <br />
 
 ### Languages and Tools:
@@ -67,21 +64,6 @@
 
 <br />
 <br />
-
-<div align="left" >
-    <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1.png" />
-    <img align="left" alt="Adobe After Effects" width="26px" src="https://seeklogo.com/images/A/after-effects-cc-logo-BCC55BAFF7-seeklogo.com.png" />
-    <img align="left" alt="Adobe Photoshop" width="26px" src="https://seeklogo.com/images/A/adobe-photoshop-express-logo-CB0F9C1CDD-seeklogo.com.png" />
-    <img align="left" alt="Adobe XD" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" />
-    <img align="left" alt="Figma" width="26px" src="https://pbs.twimg.com/profile_images/1184135296566251520/TWYoDqir_400x400.png" />
-</div>
-
-<br />
-<br />
-
----
-
----
 
 [website]: https://github.com/vaqif14
 [twitter]: https://twitter.com/vaqif_14
