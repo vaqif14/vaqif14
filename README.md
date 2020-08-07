@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Netondo
 - 🌱 I’m currently learning AI, ML, VR and AR
 
-📊 **Front-end tools**
+📊 **Front-end tools**<br />
 ✔ JavaScript (ES5/ES6/ES7+, Babel)<br />
 ✔ TypeScript<br />
 ✔ Java<br />
