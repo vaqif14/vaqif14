@@ -1,6 +1,6 @@
 ## I'm a Software Engineer!
 
-- 🔭 I’m currently working on Netondo
+- 🔭 I’m currently working on Cybernet
 - 🌱 I’m currently learning AI, ML, VR and AR
 
 📊 **Front-end tools**<br />
