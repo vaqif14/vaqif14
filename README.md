@@ -22,6 +22,7 @@
 
 💻 **Back-end tools**<br />
 ✔ Python<br />
+✔ FastAPI<br />
 ✔ GraphQL<br />
 ✔ Rest Api<br />
 ✔ NodeJs<br />
