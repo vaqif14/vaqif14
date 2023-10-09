@@ -3,9 +3,6 @@
 - 🔭 I’m currently working on Cybernet
 - 🌱 I’m currently learning AI, ML, VR and AR
 
-![Vaqif Gulmammadov's github stats](https://github-readme-stats.vercel.app/api?username=vaqif14&count_private=true&show_icons=true&theme=radical)
-
-![](https://komarev.com/ghpvc/?username=vaqif14)
 
 <p>
 <div align="center">
