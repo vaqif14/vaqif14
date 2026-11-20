@@ -8,7 +8,7 @@ My core expertise is building backend systems, APIs, microservices, AI-powered a
 
 I also have strong full-stack experience, including React, Next.js, React Native, and Flutter, which helps me understand complete product development from backend architecture to user-facing applications.
 
-I am also the founder of **IT INNOVATIONS Academy**, where we teach programming, robotics, artificial intelligence, and modern engineering skills to young learners.
+I am also the founder of **IT INNOVATIONS Academy**, where we teach programming, robotics, artificial intelligence, and modern engineering skills to children, teenagers, adults and professionals in Baku. Explore the [published programmes](https://itinnovations.az/az/education); course eligibility and current groups are confirmed with the academy.
 
 ---
 
